@@ -1,4 +1,4 @@
-# forex-tbale
+# forex-table
 
 > forex-table
 
